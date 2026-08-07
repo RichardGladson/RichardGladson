@@ -9,9 +9,10 @@ Building <b>embedded systems</b>, <b>web applications</b>, and <b>software</b> t
 # 🥇 Highlighted Projects:
 <ul>
   <li>♟️ <strong>Handheld Chess Engine</strong> <em>(ESP32 • Embedded Systems • C++)</em></li>
-  <li>💬 <strong>Developer Chat Forum</strong> <em>(HTML • CSS • JavaScript)</em></li>
-  <li>📡 <strong>Handheld Wi-Fi Analyzer</strong> <em>(ESP32 • Embedded Systems • C++)</em></li>
-  <li>📶 <strong>Wireless Research Device</strong> <em>(ESP32 • Embedded Systems • C++)</em></li>  
+  <li>💬 <strong>Developer Chat Forum</strong> <em>(HTML • CSS • JavaScript • FireBase)</em></li>
+  <li>📡 <strong>Handheld Wi-Fi Network Analyzer</strong> <em>(ESP32 • Embedded Systems • C++)</em></li>
+  <li>🎭 <strong>Wi-Fi Evil Portal Generator</strong>⚠<em>(ESP32 • Embedded Systems • C++)</em></li>
+  <li>📶 <strong>Portable Handheld Wi-Fi Deauther</strong>⚠ <em>(ESP32 • Embedded Systems • C++)</em></li>  
 </ul>
 
 
