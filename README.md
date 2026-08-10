@@ -12,9 +12,8 @@ Building <b>embedded systems</b>, <b>web applications</b>, and <b>software</b> t
 <ul>
   <li>♟️ <strong>Handheld Chess Engine</strong>   <em>(ESP32 • Embedded Systems • C++)</em></li>
   <li>💬 <strong>Developer Chat Forum</strong>   <em>(HTML • CSS • JavaScript • FireBase)</em></li>
-  <li>📡 <strong>Handheld Wi-Fi Network Analyzer</strong>   <em>(ESP32 • Embedded Systems • C++)</em></li>
   <li>🎭 <strong>Wi-Fi Captive Portal Research Tool</strong>   <em>(Embedded Systems • C++)</em></li>
-  <li>📶 <strong>Handheld Wi-Fi Protocol Tester</strong>   <em>(ESP32 • C++)</em></li>  
+  <li>📶 <strong>Handheld Wi-Fi Protocol Tester + Network Analyzer</strong>   <em>(ESP32 • C++)</em></li>  
 </ul>
 
 
