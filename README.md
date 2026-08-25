@@ -12,7 +12,7 @@ Building <b>embedded systems</b>, <b>web applications</b>, <b>scripts</b> and <b
 <ul>
   <li>♟️ <strong>Handheld Chess Engine</strong>   <em>(ESP32 • Embedded Systems • C++)</em></li>
   <li>💬 <strong>Developer Chat Forum</strong>   <em>(HTML • CSS • JavaScript • FireBase)</em></li>
-  <li>📶 <strong>Handheld Wi-Fi Protocol Tester + Network Analyzer</strong>   <em>(ESP32 • C++)</em></li>  
+  <li>📶 <strong>Handheld Wi-Fi Protocol Tester + Network Analyzer</strong>   <em>(ESP32 • Wi-Fi 4)</em></li>  
 </ul>
 
 
