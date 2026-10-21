@@ -1,6 +1,9 @@
 # Hi There! I'm Richard.
 Building <b>embedded systems</b>, <b>web applications</b>, <b>scripts</b> and <b>software</b> through practical engineering projects.
 
+## Portfolio:
+[Richard's portfolio](richardgladson.onrender.com)
+
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/users/richardgladson)
 
